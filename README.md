@@ -1,5 +1,5 @@
 <h1 align="center">:wave: Hi, I’m Ori Menachem Levi</h1>
-<h3 fontsize="23" align="center">At the moment I'm working at OSA Commerce with special and unique technologies.</h3>
+<h3 fontsize="23" align="center">Full Stack Engineer and Tech Lead at OSA Commerce.</h3>
 <br>
 :magnet: A people's person and a tech lover.
 <br>
